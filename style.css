@@ -43,3 +43,48 @@
   border-radius: 4px;
   transition: ease-in 0.4s;
 }
+
+/*CTA*/
+
+.main_cta {
+  width: 100%;
+  background-color: #282c34;
+}
+
+.main_cta .main_cta_content {
+  max-width: 1300px;
+  margin: 0 auto;
+  background-color: #282c34;
+}
+
+.main_cta .main_cta_content h1 {
+  font-size: 3em;
+  text-align: center;
+  color: #fff;
+}
+
+.main_cta .main_cta_content p {
+  font-size: 1em;
+  text-align: center;
+  margin: 20px 0;
+  color: #fff;
+}
+
+.main_cta .main_cta_content .btn {
+  background-color: #8257e5;
+  color: #fff;
+  font-size: 0.8em;
+  padding: 10px 40px;
+  border-radius: 5px;
+}
+
+.main_cta .main_cta_content .btn:hover {
+  background-color: purple;
+  transition: ease 0.3s;
+}
+
+.main_cta .main_cta_content .main_cta_content_spacer {
+  margin: 0 auto;
+  max-width: 1300px;
+  padding: 50px 40px;
+}
